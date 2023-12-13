@@ -34,6 +34,9 @@ Task2: Sales Prediction using Python
 
 Sales prediction with Python enables businesses to forecast future sales based on factors like advertising expenses, customer segmentation, and marketing platforms. Leveraging machine learning techniques, companies can analyze historical data, build predictive models, and make data-driven decisions to optimize marketing strategies, allocate resources efficiently, and maximize revenue potential. By continuously updating the models with new data, businesses can adapt to market dynamics and achieve better performance in a competitive environment.
 
+Dataset:
+=========
+https://www.kaggle.com/datasets/bumba5341/advertisingcsv
 
 Task3: Email Spam Classification using ML
 ===========================================
@@ -46,6 +49,7 @@ The files contain one message per line. Each line is composed by two columns: v1
 This corpus has been collected from free or free for research sources at the Internet:
 
 Dataset:
+=========
 https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 -> A collection of 425 SMS spam messages was manually extracted from the Grumbletext Web site. This is a UK forum in which cell phone users make public claims about SMS spam messages, most of them without reporting the very spam message received. The identification of the text of spam messages in the claims is a very hard and time-consuming task, and it involved carefully scanning hundreds of web pages.
